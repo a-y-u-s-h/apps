@@ -263,11 +263,11 @@ body .sidebar-toggle span:nth-child(3) {
 
 @media screen and (max-width: 768px) {
   body .sidebar-toggle {
-    left: 1rem;
+    left: calc(300px + 1.5rem);
   }
 
   body.close .sidebar-toggle {
-    left: calc(300px + 1.5rem);
+    left: 1rem;
   }
 }
 
