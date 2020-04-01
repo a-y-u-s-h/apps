@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="apps" width="800px" src="./assets/images/banner.png">
+  <img alt="apps" width="800px" src="./docs/assets/images/banner.png">
 </p>
 
 <h2 align="center">Collection of Standalone, Useful & Beautiful Applications</h2>
